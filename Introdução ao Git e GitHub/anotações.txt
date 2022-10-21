@@ -1,0 +1,11 @@
+# Git #
+
+ **Comandos essenciais no GitBash:** 
+
+- **cd ou ChangeDirection:** Permite a navegação pelos diretórios;
+- **ls:** Lista todos os componentes daquele diretório;
+- **mkdir ou MakeDirectory:** Ele permite a criação de uma pasta no diretório presente;
+- **clear ou CTRL+L:** Limpa o terminal, permitindo maior organização;
+ 
+
+
